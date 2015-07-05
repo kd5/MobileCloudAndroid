@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mansoor.aziz.camera_selfie.MainActivity" >
+
+    <item
+        android:id="@+id/icon_camera"
+        android:icon="@drawable/camera_cam"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:showAsAction="ifRoom"/>
+
+</menu>
+<!-- From: file:/C:/Users/kuladasd/AndroidstudioProjects/Camera_selfie1/app/src/main/res/menu/main.xml -->
